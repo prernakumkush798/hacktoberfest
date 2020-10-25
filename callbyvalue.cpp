@@ -1,4 +1,5 @@
 #include<iostream>
+using namespace std;
 int callbyvalue(int &x,int &y)
 {
     int z=x;
